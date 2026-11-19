@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Si usás este código, por favor citalo de la siguiente manera."
+title: "Simulaciones event-driven y análisis de estabilidad del estado estacionario en redes de osciladores de fase"
+authors:
+  - family-names: "<Apellido>"
+    given-names: "<Nombre>"
+    affiliation: "Instituto Balseiro"
+version: "1.0"
+date-released: "2026-11-19"
+license: MIT
+repository-code: "https://github.com/<TU_USUARIO>/tesis-estabilidad-redes-osciladores"
