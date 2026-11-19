@@ -1,7 +1,7 @@
 # Stability of the stationary state in networks of phase oscillators
 
 This repository contains the code for my Physics Licenciatura Thesis (Instituto Balseiro, <year>):
-**"<Thesis title>"**, by <Name Surname>. Supervisor: <Name Surname>.
+**"Mean-field theory and fluctuations in spike-coupled neural networks"**, by Octavio Tomás Puebla Pérez. Supervisor: Dr. Inés Samengo.
 
 ## Contents
 
