@@ -1,11 +1,11 @@
 cff-version: 1.2.0
-message: "Si usás este código, por favor citalo de la siguiente manera."
-title: "Simulaciones event-driven y análisis de estabilidad del estado estacionario en redes de osciladores de fase"
+message: "If you use this code, please cite it as below."
+title: "Event-driven simulations and stability analysis of the stationary state in networks of phase oscillators"
 authors:
-  - family-names: "<Apellido>"
-    given-names: "<Nombre>"
+  - family-names: "Puebla Pérez"
+    given-names: "Octavio Tomás"
     affiliation: "Instituto Balseiro"
 version: "1.0"
 date-released: "2026-11-19"
 license: MIT
-repository-code: "https://github.com/<TU_USUARIO>/tesis-estabilidad-redes-osciladores"
+repository-code: "https://github.com/pueblaperez-octavio/tesis-estabilidad-redes-osciladores"
